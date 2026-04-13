@@ -1,0 +1,54 @@
+﻿{
+    "shows":  {
+                  "invincible":  {
+                                     "heroImage":  "posters/invincible-hero.jpg",
+                                     "title":  "Invincible",
+                                     "year":  "2021",
+                                     "description":  "Mark Grayson is a normal teenager except for the fact that his father is the most powerful superhero on the planet.",
+                                     "episodes":  {
+                                                      "4":  {
+                                                                "6":  {
+                                                                          "duration":  "47:08",
+                                                                          "title":  "IT\u0027S NOT THAT SIMPLE",
+                                                                          "video":  "videos/invincible/S4/Ep 6"
+                                                                      }
+                                                            },
+                                                      "1":  {
+                                                                "3":  {
+                                                                          "duration":  "41:57",
+                                                                          "title":  "WHO YOU CALLING UGLY?",
+                                                                          "video":  "videos/invincible/S1/Ep 3"
+                                                                      },
+                                                                "2":  {
+                                                                          "duration":  "44:11",
+                                                                          "title":  "HERE GOES NOTHING",
+                                                                          "video":  "videos/invincible/S1/Ep 2"
+                                                                      },
+                                                                "1":  {
+                                                                          "duration":  "47:14",
+                                                                          "title":  "IT\u0027S ABOUT TIME",
+                                                                          "video":  "videos/invincible/S1/Ep 1"
+                                                                      },
+                                                                "4":  {
+                                                                          "duration":  "44:48",
+                                                                          "title":  "NEIL ARMSTRONG, EAT YOUR HEART OUT",
+                                                                          "video":  "videos/invincible/S1/Ep 4"
+                                                                      },
+                                                                "6":  {
+                                                                          "duration":  "44:51",
+                                                                          "title":  "YOU LOOK KINDA DEAD",
+                                                                          "video":  "videos/invincible/S1/Ep 6"
+                                                                      },
+                                                                "5":  {
+                                                                          "duration":  "46:18",
+                                                                          "title":  "THAT ACTUALLY HURT",
+                                                                          "video":  "videos/invincible/S1/Ep 5"
+                                                                      }
+                                                            }
+                                                  },
+                                     "genre":  "Superhero",
+                                     "poster":  "posters/invincible.jpg",
+                                     "seasons":  4
+                                 }
+              }
+}
