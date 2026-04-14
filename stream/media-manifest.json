@@ -7,10 +7,45 @@
                                      "description":  "Mark Grayson is a normal teenager except for the fact that his father is the most powerful superhero on the planet.",
                                      "episodes":  {
                                                       "4":  {
+                                                                "1":  {
+                                                                          "duration":  "47:08",
+                                                                          "title":  "MAKING THE WORLD A BETTER PLACE",
+                                                                          "video":  "videos/invincible/S4/Ep 1"
+                                                                      },
+                                                                "2":  {
+                                                                          "duration":  "47:08",
+                                                                          "title":  "I\u00275LL GIVE YOU THE GRAND TOUR",
+                                                                          "video":  "videos/invincible/S4/Ep 2"
+                                                                      },
+                                                                "3":  {
+                                                                          "duration":  "47:08",
+                                                                          "title":  "I GOTTA GET SOME AIR",
+                                                                          "video":  "videos/invincible/S4/Ep 3"
+                                                                      },
+                                                                "4":  {
+                                                                          "duration":  "47:08",
+                                                                          "title":  "HURM",
+                                                                          "video":  "videos/invincible/S4/Ep 4"
+                                                                      },
+                                                                "5":  {
+                                                                          "duration":  "47:08",
+                                                                          "title":  "GIVE US A MOMENT",
+                                                                          "video":  "videos/invincible/S4/Ep 5"
+                                                                      },
                                                                 "6":  {
                                                                           "duration":  "47:08",
-                                                                          "title":  "IT\u0027S NOT THAT SIMPLE",
+                                                                          "title":  "YOU LOOK HORRIBLE",
                                                                           "video":  "videos/invincible/S4/Ep 6"
+                                                                      },
+                                                                "7":  {
+                                                                          "duration":  "47:08",
+                                                                          "title":  "DON\u00275T DO ANYTHING RASH",
+                                                                          "video":  "videos/invincible/S4/Ep 7"
+                                                                      },
+                                                                "8":  {
+                                                                          "duration":  "47:08",
+                                                                          "title":  "DON\u00275T LEAVE ME HANGING HERE",
+                                                                          "video":  "videos/invincible/S4/Ep 8"
                                                                       }
                                                             },
                                                       "1":  {
