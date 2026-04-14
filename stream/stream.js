@@ -2,7 +2,7 @@
 
 class StreamManager {
     constructor() {
-        this.defaultVideoBaseUrl = 'https://est-organizer-doctors-concerned.trycloudflare.com';
+        this.defaultVideoBaseUrl = 'https://statute-modelling-wanted-stripes.trycloudflare.com';
         this.videoBaseUrl = this.defaultVideoBaseUrl;
         this.mediaConfigUrl = './media-config.json';
         this.mediaManifestUrl = './media-manifest.json';
